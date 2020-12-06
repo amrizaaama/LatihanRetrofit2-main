@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LatihanRetrofit2</string>
+    <string name="title">LATIHAN RETROFIT</string>
+    <string name="cari_username_disini">Cari Username Disini</string>
+    <string name="find">Find</string>
+    <string name="description">Description :</string>
+    <string name="html_url">Html Url :</string>
+    <string name="id">ID :</string>
+</resources>
